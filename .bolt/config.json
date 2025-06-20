@@ -1,6 +1,6 @@
 {
   "provider": "github",
-  "repo": "elevateddesignz/hype.git"
+  "repo": "elevateddesignz/hype"
   // optionally:
   // "baseDir": "subfolder/if/you/need",
   // "branch": "main"
