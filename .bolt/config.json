@@ -1,7 +1,3 @@
 {
-  "provider": "github",
-  "repo": "elevateddesignz/hype"
-  // optionally:
-  // "baseDir": "subfolder/if/you/need",
-  // "branch": "main"
+  "template": "bolt-vite-react-ts"
 }
